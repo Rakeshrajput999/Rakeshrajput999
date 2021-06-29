@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rakeshrajput999
+- 👋 Hi, I’m @Rakesh Rajput
 - 👀 I’m interested in web devolopment and data science
-- 🌱 I’m currently learning web devolopment from devsnest and data science from worldquent university
+- 🌱 I’m currently learning web devolopment and data science.
 - 💞️ I’m looking to collaborate on any web based data science project
 - 📫 reach me vie - mail --   trsrajput1@gmail.com 
                     linkedin- www.linkedin.com/in/rakesh-rajput-771a4b16b
