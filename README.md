@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![image](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?size=338&ext=jpg&uid=R44654833&ga=GA1.2.1572150321.1654767248)
+[image](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?size=338&ext=jpg&uid=R44654833&ga=GA1.2.1572150321.1654767248)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshrajput999&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshrajput999" /> </p>
 
