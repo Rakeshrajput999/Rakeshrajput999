@@ -17,7 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@rak3shrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rak3shrajput" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/rakesh-rajput-771a4b16b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rakesh-rajput-771a4b16b" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/rakesh-rajput-771a4b16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rakesh-rajput-771a4b16b" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100004939609287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004939609287" height="30" width="40" /></a>
 <a href="https://instagram.com/rak3sh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rak3sh_rajput" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/trsrajput1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trsrajput1" height="30" width="40" /></a>
